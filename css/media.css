@@ -1,0 +1,143 @@
+@media screen and (max-width: 400px) {
+    /* header */
+    /* nav */
+    nav a {
+        color: #0078ff !important;
+        font-weight: 600 !important;
+        font-size: 1.3rem !important;
+    }
+    
+    .navbar-nav a {
+        font-size: 1rem !important;
+    }
+    
+    .nav-link:hover:after{
+        width: 15%;
+    }
+    /* header-cont */
+    
+    .header-cont h1 {
+        font-size: 3rem;
+    }
+    
+    .header-cont p::after {
+        font-size: 1.5rem;
+    }
+    
+    .header-cont p::before {
+        font-size: 1.5rem;
+    }
+    /* sec2 */
+    .sec2-left-img{
+        margin-bottom: 30px;
+    }
+
+}
+
+@media screen and (min-width: 400px) and (max-width:600px) {
+    /* header */
+    /* nav */
+    nav a {
+        color: #0078ff !important;
+        font-weight: 600 !important;
+        font-size: 1.3rem !important;
+    }
+    
+    .navbar-nav a {
+        font-size: 1rem !important;
+    }
+    
+    .nav-link:hover:after{
+        width: 15%;
+    }
+    /* header-cont */
+    
+    .header-cont h1 {
+        font-size: 3.4rem;
+    }
+    
+    .header-cont p::after {
+        font-size: 1.5rem;
+    }
+    
+    .header-cont p::before {
+        font-size: 1.5rem;
+    }
+    
+    /* sec2 */
+    .sec2-left-img{
+        margin-bottom: 30px;
+    }
+    /* sec7 */
+    .sec7-bot-img {
+        width: 8%;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width:769px) {
+    
+    /* header */
+    /* nav */
+    nav a {
+        color: #0078ff !important;
+        font-weight: 600 !important;
+        font-size: 1.3rem !important;
+    }
+    
+    .navbar-nav a {
+        font-size: 1rem !important;
+    }
+    
+    .nav-link:hover:after{
+        width: 10%;
+    }
+    /* header-cont */
+    
+    .header-cont h1 {
+        font-size: 3.1rem;
+    }
+    
+    .header-cont p::after {
+        font-size: 1.5rem;
+    }
+    
+    .header-cont p::before {
+        font-size: 1.5rem;
+    }
+    
+    /* sec7 */
+    .sec7-bot-img {
+        width: 8%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:992px) {
+    /* header */
+    /* nav */
+    nav a {
+        color: #0078ff !important;
+        font-weight: 600 !important;
+        font-size: 1.3rem !important;
+    }
+    
+    .navbar-nav a {
+        font-size: 1rem !important;
+    }
+    
+    .nav-link:hover:after{
+        width: 8%;
+    }
+    /* header-cont */
+    
+    .header-cont h1 {
+        font-size: 3.1rem;
+    }
+    
+    .header-cont p::after {
+        font-size: 1.5rem;
+    }
+    
+    .header-cont p::before {
+        font-size: 1.5rem;
+    }
+}
